@@ -8,9 +8,9 @@
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Shifa Shihab] - [College of Engineering,Perumon]
+- Member 2: [Nandana S] - [College of Engineering,Perumon]
+
 
 ### Project Description
 [2-3 lines about what your project does]
