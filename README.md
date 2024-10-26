@@ -4,7 +4,7 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [NandanaVilasam]
 
 
 ### Team Members
@@ -13,21 +13,21 @@
 
 
 ### Project Description
-[2-3 lines about what your project does]
+[We are trying to build an anonymous gossip website where students can complain and gossip about their college lives without any fear of judgement.Even we will not be able to see your comments which makes it a whole lot better.]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[We are solving nothing,cuz we are creating an useless project]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[By adding more problems]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [HTML,CSS,Python]
+- [Flask]
+- [SQLAlchemy,Flask-Bcrypt,Flask-Migrate,Flask-CORS]
+- [Visual Studio Code (VS Code)]
 
 For Hardware:
 - [List main components]
