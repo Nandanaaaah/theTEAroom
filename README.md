@@ -1,6 +1,6 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# [theTEAroom] 🎯
 
 
 ## Basic Details
@@ -35,9 +35,9 @@ For Hardware:
 - [List tools required]
 
 ### Implementation
-For Software:
+For Software:The program was implemented using Flask to create a web application that allows users to submit anonymous comments, which are stored in an SQLite database and displayed on the homepage.
 # Installation
-[]
+[python -m venv venv]
 
 # Run
 [commands]
