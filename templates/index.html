@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>theTEAroom</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    
+    <video autoplay muted loop id="bg-video">
+        <source src="{{ url_for('static', filename='bg.mp4') }}" type="video/mp4">
+        Your browser does not support HTML5 video.
+    </video>
+
+    <div class="container">
+        <header>
+            <h1>theTEAroom</h1>
+            <p class="subheading">where no tea goes unspilled</p>
+        </header>
+
+        <!-- Comment submission form -->
+        <form action="{{ url_for('submit_comment') }}" method="POST" class="comment-form">
+            <input type="text" name="heading" placeholder="About" required><br>
+            <textarea name="content" placeholder="Got something to say?" required></textarea><br>
+            <button type="submit">Submit</button>
+        </form>
+
+        <!-- Display comments -->
+        <section class="comments">
+            <h2>Spill it</h2>
+            {% for comment in comments %}
+                <div class="comment">
+                    <h3>{{ comment.heading }}</h3> <!-- Display heading -->
+                    <p>{{ comment.content }}</p> <!-- Display content -->
+                    <p class="comment-date" style="text-align: right;">{{ comment.date_posted.strftime('%Y-%m-%d %H:%M:%S') }}</p> <!-- Date and time -->
+                </div>
+            {% endfor %}
+        </section>
+    </div>
+</body>
+</html>
