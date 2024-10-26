@@ -37,7 +37,7 @@ For Hardware:
 ### Implementation
 For Software:
 # Installation
-[commands]
+[]
 
 # Run
 [commands]
@@ -46,14 +46,14 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1][home](https://github.com/user-attachments/assets/64713886-cb9c-4e7b-87a4-402228b60764))
+This shows the title and tagline of theTEAroom
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2](![adding comments](https://github.com/user-attachments/assets/9da4aff5-0880-49a8-95b9-9273dab92d6b))
+This part is for adding your comments,opinions,etc
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot3](![comments](https://github.com/user-attachments/assets/89b06c54-8e1e-4677-942c-46fc75aceb50))
+This part shows the comments that have been added to theTEAroom 
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
