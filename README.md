@@ -49,13 +49,13 @@ https://github.com/user-attachments/assets/dc5fc0df-9905-4c92-a673-5904035e38bd
 
 
 # Screenshots 
-(![home](https://github.com/user-attachments/assets/64713886-cb9c-4e7b-87a4-402228b60764))
+![home](https://github.com/user-attachments/assets/64713886-cb9c-4e7b-87a4-402228b60764)
 This shows the title and tagline of theTEAroom
 
-(![adding comments](https://github.com/user-attachments/assets/9da4aff5-0880-49a8-95b9-9273dab92d6b))
+![adding comments](https://github.com/user-attachments/assets/9da4aff5-0880-49a8-95b9-9273dab92d6b)
 This part is for adding your comments,opinions,etc
 
-(![comments](https://github.com/user-attachments/assets/89b06c54-8e1e-4677-942c-46fc75aceb50))
+![comments](https://github.com/user-attachments/assets/89b06c54-8e1e-4677-942c-46fc75aceb50)
 This part shows the comments that have been added to theTEAroom 
 
 
