@@ -29,10 +29,6 @@ For Software:
 - [SQLAlchemy,Flask-Bcrypt,Flask-Migrate,Flask-CORS]
 - [Visual Studio Code (VS Code)]
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:The program was implemented using Flask to create a web application that allows users to submit anonymous comments, which are stored in an SQLite database and displayed on the homepage.
@@ -40,13 +36,20 @@ For Software:The program was implemented using Flask to create a web application
 [python -m venv venv]
 
 # Run
-[commands]
+[python app.py]
 
 ### Project Documentation
 For Software:
 
+# Video
+![Video](
+
+https://github.com/user-attachments/assets/dc5fc0df-9905-4c92-a673-5904035e38bd
+
+)
+
 # Screenshots (Add at least 3)
-![Screenshot1][home](https://github.com/user-attachments/assets/64713886-cb9c-4e7b-87a4-402228b60764))
+![Screenshot1](![home](https://github.com/user-attachments/assets/64713886-cb9c-4e7b-87a4-402228b60764))
 This shows the title and tagline of theTEAroom
 
 ![Screenshot2](![adding comments](https://github.com/user-attachments/assets/9da4aff5-0880-49a8-95b9-9273dab92d6b))
@@ -55,41 +58,7 @@ This part is for adding your comments,opinions,etc
 ![Screenshot3](![comments](https://github.com/user-attachments/assets/89b06c54-8e1e-4677-942c-46fc75aceb50))
 This part shows the comments that have been added to theTEAroom 
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
