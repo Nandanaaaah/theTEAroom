@@ -1,54 +1,54 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [theTEAroom] 🎯
+# theTEAroom 🎯
 
 
 ## Basic Details
-### Team Name: [NandanaVilasam]
+### Team Name: NandanaVilasam
 
 
 ### Team Members
-- Team Lead: [Shifa Shihab] - [College of Engineering,Perumon]
-- Member 2: [Nandana S] - [College of Engineering,Perumon]
+- Team Lead: Shifa Shihab - College of Engineering,Perumon
+- Member 2: Nandana S - College of Engineering,Perumon
 
 
 ### Project Description
-[We are trying to build an anonymous gossip website where students can complain and gossip about their college lives without any fear of judgement.Even we will not be able to see your comments which makes it a whole lot better.]
+We are trying to build an anonymous gossip website where students can complain and gossip about their college lives without any fear of judgement.Even we will not be able to see your comments which makes it a whole lot better.
 
 ### The Problem (that doesn't exist)
-[We are solving nothing,cuz we are creating an useless project]
+We are solving nothing,cuz we are creating an useless project
 
 ### The Solution (that nobody asked for)
-[By adding more problems]
+By adding more problems
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [HTML,CSS,Python]
-- [Flask]
-- [SQLAlchemy,Flask-Bcrypt,Flask-Migrate,Flask-CORS]
-- [Visual Studio Code (VS Code)]
+- HTML,CSS,Python
+- Flask
+- SQLAlchemy,Flask-Bcrypt,Flask-Migrate,Flask-CORS
+- Visual Studio Code (VS Code)
 
 
 ### Implementation
 For Software:The program was implemented using Flask to create a web application that allows users to submit anonymous comments, which are stored in an SQLite database and displayed on the homepage.
 # Installation
-[python -m venv venv]
+python -m venv venv
 
 # Run
-[python app.py]
+python app.py
 
 ### Project Documentation
 For Software:
 
 # Video
-![Video](
+(
 
 https://github.com/user-attachments/assets/dc5fc0df-9905-4c92-a673-5904035e38bd
 
 )
 
-# Screenshots (Add at least 3)
+# Screenshots 
 ![Screenshot1](![home](https://github.com/user-attachments/assets/64713886-cb9c-4e7b-87a4-402228b60764))
 This shows the title and tagline of theTEAroom
 
